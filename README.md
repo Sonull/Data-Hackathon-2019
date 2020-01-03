@@ -1,5 +1,5 @@
 # Predicting If Customer Will Subscribe to a Term Deposit
-On November 9th to 10th 2019, my team won the First Place for Best Model Award at Data Hackathon (a less than 24 data science competition) held by OCRUG and Merage Analytics Club at The Paul Merage School of Business. We were a team of 3 people from UCI Master’s in Business Analytics Program. Below is the report of our analysis and prediction for the competition.
+On November 9th to 10th 2019, my team won the First Place for Best Model Award at Data Hackathon (a less than 24 data science competition) held by OCRUG and Merage Analytics Club at The Paul Merage School of Business. We were a team of 3 people from UCI Master’s in Business Analytics Program. 
 
 # Background:
 The data is about direct marketing campaigns (phone calls) of a Portuguese banking institution from May 2008 to November 2010. The clients were contacted more than once in order to access if the product (bank term deposit) would be (‘yes’) or not (‘no’) subscribed.
@@ -36,3 +36,7 @@ Predict whether the client will subscribe (yes/no) to a term deposit. Key Proces
 
 # Dependent Variable (desired target)
 * Deposit - has the client subscribed a term deposit? (“yes”,“no”)
+
+# Presentation 
+* The details around the results and methodology can be found in the document:
+  *
