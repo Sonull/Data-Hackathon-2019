@@ -39,4 +39,4 @@ Predict whether the client will subscribe (yes/no) to a term deposit. Key Proces
 
 # Presentation 
 * The details around the results and methodology can be found in the document:
-  *
+  * Hackathon_Presentation
